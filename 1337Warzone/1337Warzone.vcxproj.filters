@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="no_renderer">
+      <UniqueIdentifier>{35ee7a5e-d977-4b3e-a27d-c7de83e27dd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="no_cheat">
+      <UniqueIdentifier>{7dd63091-51e0-4f23-ac81-17cfe8ac638d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="no_driver">
+      <UniqueIdentifier>{404a8a35-4994-45ce-97d5-1f28affe96c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="no_renderer\no_draw">
+      <UniqueIdentifier>{55e50c16-8f0c-4f98-9ddd-1dfa52f3bb71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="no_renderer\no_menu">
+      <UniqueIdentifier>{7b624bc6-5506-485b-8261-7a677f88b78d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="no_renderer\imgui">
+      <UniqueIdentifier>{5ec78c12-9ccd-407d-8667-23326dfe99be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="no_loader">
+      <UniqueIdentifier>{100bb802-25c5-4848-b036-f2d02449282d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="no_loader\no_stream">
+      <UniqueIdentifier>{fea48613-d4e1-4f07-8c3d-3160fb7f804c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="no_loader\no_kdmapper">
+      <UniqueIdentifier>{04e4af78-fd4a-45dd-9fe8-2c561b7cdd3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="no_auth">
+      <UniqueIdentifier>{0543c1f7-b724-4e96-9685-6228d0a0b5da}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1337Warzone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="no_renderer\imgui\imgui_demo.cpp">
+      <Filter>no_renderer\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="no_renderer\imgui\imgui_draw.cpp">
+      <Filter>no_renderer\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="no_renderer\imgui\imgui_impl_dx9.cpp">
+      <Filter>no_renderer\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="no_renderer\imgui\imgui_impl_win32.cpp">
+      <Filter>no_renderer\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="no_renderer\imgui\imgui_widgets.cpp">
+      <Filter>no_renderer\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="no_renderer\imgui\imgui.cpp">
+      <Filter>no_renderer\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="no_renderer.cpp">
+      <Filter>no_renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="no_loader\no_stream\no_stream.cpp">
+      <Filter>no_loader\no_stream</Filter>
+    </ClCompile>
+    <ClCompile Include="no_loader\no_kdmapper\no_mapper.cpp">
+      <Filter>no_loader\no_kdmapper</Filter>
+    </ClCompile>
+    <ClCompile Include="no_loader\no_kdmapper\no_portable_executable.cpp">
+      <Filter>no_loader\no_kdmapper</Filter>
+    </ClCompile>
+    <ClCompile Include="no_loader\no_kdmapper\no_service.cpp">
+      <Filter>no_loader\no_kdmapper</Filter>
+    </ClCompile>
+    <ClCompile Include="no_loader\no_kdmapper\no_utils.cpp">
+      <Filter>no_loader\no_kdmapper</Filter>
+    </ClCompile>
+    <ClCompile Include="no_loader\no_kdmapper\no_intel_driver.cpp">
+      <Filter>no_loader\no_kdmapper</Filter>
+    </ClCompile>
+    <ClCompile Include="no_auth\no_authentication.cpp">
+      <Filter>no_auth</Filter>
+    </ClCompile>
+    <ClCompile Include="no_auth\crypto.cpp">
+      <Filter>no_auth</Filter>
+    </ClCompile>
+    <ClCompile Include="no_auth\hwid.cpp">
+      <Filter>no_auth</Filter>
+    </ClCompile>
+    <ClCompile Include="no_auth\lw_http.cpp">
+      <Filter>no_auth</Filter>
+    </ClCompile>
+    <ClCompile Include="no_auth\md5.cpp">
+      <Filter>no_auth</Filter>
+    </ClCompile>
+    <ClCompile Include="no_auth\md5wrapper.cpp">
+      <Filter>no_auth</Filter>
+    </ClCompile>
+    <ClCompile Include="testtestmainauth.cpp">
+      <Filter>no_auth</Filter>
+    </ClCompile>
+    <ClCompile Include="no_dmu.cpp">
+      <Filter>no_cheat</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="no_utils.h">
+      <Filter>no_cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="no_define.h">
+      <Filter>no_cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="no_driver.h">
+      <Filter>no_driver</Filter>
+    </ClInclude>
+    <ClInclude Include="no_menu.h">
+      <Filter>no_renderer\no_menu</Filter>
+    </ClInclude>
+    <ClInclude Include="no_renderer\imgui\imgui.h">
+      <Filter>no_renderer\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="no_renderer\imgui\imgui_impl_dx9.h">
+      <Filter>no_renderer\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="no_renderer\imgui\imgui_impl_win32.h">
+      <Filter>no_renderer\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="no_renderer\imgui\imgui_internal.h">
+      <Filter>no_renderer\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="no_renderer\imgui\imgui_xorstr.h">
+      <Filter>no_renderer\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="no_renderer\imgui\imstb_rectpack.h">
+      <Filter>no_renderer\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="no_renderer\imgui\imstb_textedit.h">
+      <Filter>no_renderer\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="no_renderer\imgui\imstb_truetype.h">
+      <Filter>no_renderer\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="no_renderer\imgui\stb_image.h">
+      <Filter>no_renderer\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="no_renderer\imgui\stb_rect_pack.h">
+      <Filter>no_renderer\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="no_renderer\imgui\stb_textedit.h">
+      <Filter>no_renderer\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="no_renderer\imgui\stb_truetype.h">
+      <Filter>no_renderer\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="no_renderer\imgui\imconfig.h">
+      <Filter>no_renderer\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="no_renderer.h">
+      <Filter>no_renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="no_draw.h">
+      <Filter>no_renderer\no_draw</Filter>
+    </ClInclude>
+    <ClInclude Include="include.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="no_loop.h">
+      <Filter>no_cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="no_offsets.h">
+      <Filter>no_cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="no_vectors.h">
+      <Filter>no_cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="no_framework.h">
+      <Filter>no_cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="no_loader\no_stream\no_stream.h">
+      <Filter>no_loader\no_stream</Filter>
+    </ClInclude>
+    <ClInclude Include="no_loader\no_kdmapper\no_intel_driver.hpp">
+      <Filter>no_loader\no_kdmapper</Filter>
+    </ClInclude>
+    <ClInclude Include="no_loader\no_kdmapper\no_intel_driver_resource.hpp">
+      <Filter>no_loader\no_kdmapper</Filter>
+    </ClInclude>
+    <ClInclude Include="no_loader\no_kdmapper\no_mapper.hpp">
+      <Filter>no_loader\no_kdmapper</Filter>
+    </ClInclude>
+    <ClInclude Include="no_loader\no_kdmapper\no_nt.hpp">
+      <Filter>no_loader\no_kdmapper</Filter>
+    </ClInclude>
+    <ClInclude Include="no_loader\no_kdmapper\no_portable_executable.hpp">
+      <Filter>no_loader\no_kdmapper</Filter>
+    </ClInclude>
+    <ClInclude Include="no_loader\no_kdmapper\no_service.hpp">
+      <Filter>no_loader\no_kdmapper</Filter>
+    </ClInclude>
+    <ClInclude Include="no_loader\no_kdmapper\no_utils.hpp">
+      <Filter>no_loader\no_kdmapper</Filter>
+    </ClInclude>
+    <ClInclude Include="xor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="no_auth\no_authentication.h">
+      <Filter>no_auth</Filter>
+    </ClInclude>
+    <ClInclude Include="no_auth\crypto.h">
+      <Filter>no_auth</Filter>
+    </ClInclude>
+    <ClInclude Include="no_auth\hwid.h">
+      <Filter>no_auth</Filter>
+    </ClInclude>
+    <ClInclude Include="no_auth\lw_http.hpp">
+      <Filter>no_auth</Filter>
+    </ClInclude>
+    <ClInclude Include="no_auth\md5.h">
+      <Filter>no_auth</Filter>
+    </ClInclude>
+    <ClInclude Include="no_auth\md5wrapper.h">
+      <Filter>no_auth</Filter>
+    </ClInclude>
+    <ClInclude Include="connection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="no_dmu.h">
+      <Filter>no_cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="no_mapper_shellcode.h">
+      <Filter>no_loader\no_kdmapper</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="no_renderer\imgui\LICENSE.txt">
+      <Filter>no_renderer\imgui</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="no_auth\cryptlib.lib">
+      <Filter>no_auth</Filter>
+    </Library>
+  </ItemGroup>
+</Project>
