@@ -1,0 +1,28 @@
+C:\Users\lande\Desktop\SerialWoof\SerialWoof\bin\Debug\SerialWoof.exe.config
+C:\Users\lande\Desktop\SerialWoof\SerialWoof\bin\Debug\SerialWoof.exe
+C:\Users\lande\Desktop\SerialWoof\SerialWoof\bin\Debug\SerialWoof.pdb
+C:\Users\lande\Desktop\SerialWoof\SerialWoof\obj\Debug\SerialWoof.csproj.AssemblyReference.cache
+C:\Users\lande\Desktop\SerialWoof\SerialWoof\obj\Debug\SerialWoof.csproj.SuggestedBindingRedirects.cache
+C:\Users\lande\Desktop\SerialWoof\SerialWoof\obj\Debug\SerialWoof.SerialWoof.resources
+C:\Users\lande\Desktop\SerialWoof\SerialWoof\obj\Debug\SerialWoof.Properties.Resources.resources
+C:\Users\lande\Desktop\SerialWoof\SerialWoof\obj\Debug\SerialWoof.csproj.GenerateResource.cache
+C:\Users\lande\Desktop\SerialWoof\SerialWoof\obj\Debug\SerialWoof.csproj.CoreCompileInputs.cache
+C:\Users\lande\Desktop\SerialWoof\SerialWoof\obj\Debug\SerialWoof.exe
+C:\Users\lande\Desktop\SerialWoof\SerialWoof\obj\Debug\SerialWoof.pdb
+C:\Users\NXT-G3N\Desktop\NXTG3N LOADER\NXTG3N SPOOFER\LOADER\SerialWoof\bin\Debug\SerialWoof.exe.config
+C:\Users\NXT-G3N\Desktop\NXTG3N LOADER\NXTG3N SPOOFER\LOADER\SerialWoof\bin\Debug\SerialWoof.exe
+C:\Users\NXT-G3N\Desktop\NXTG3N LOADER\NXTG3N SPOOFER\LOADER\SerialWoof\bin\Debug\SerialWoof.pdb
+C:\Users\NXT-G3N\Desktop\NXTG3N LOADER\NXTG3N SPOOFER\LOADER\SerialWoof\bin\Debug\Guna.UI2.dll
+C:\Users\NXT-G3N\Desktop\NXTG3N LOADER\NXTG3N SPOOFER\LOADER\SerialWoof\bin\Debug\MetroFramework.dll
+C:\Users\NXT-G3N\Desktop\NXTG3N LOADER\NXTG3N SPOOFER\LOADER\SerialWoof\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\NXT-G3N\Desktop\NXTG3N LOADER\NXTG3N SPOOFER\LOADER\SerialWoof\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\NXT-G3N\Desktop\NXTG3N LOADER\NXTG3N SPOOFER\LOADER\SerialWoof\obj\Debug\SerialWoof.csproj.AssemblyReference.cache
+C:\Users\NXT-G3N\Desktop\NXTG3N LOADER\NXTG3N SPOOFER\LOADER\SerialWoof\obj\Debug\SerialWoof.csproj.SuggestedBindingRedirects.cache
+C:\Users\NXT-G3N\Desktop\NXTG3N LOADER\NXTG3N SPOOFER\LOADER\SerialWoof\obj\Debug\SerialWoof.Form1.resources
+C:\Users\NXT-G3N\Desktop\NXTG3N LOADER\NXTG3N SPOOFER\LOADER\SerialWoof\obj\Debug\SerialWoof.SerialWoof.resources
+C:\Users\NXT-G3N\Desktop\NXTG3N LOADER\NXTG3N SPOOFER\LOADER\SerialWoof\obj\Debug\SerialWoof.Properties.Resources.resources
+C:\Users\NXT-G3N\Desktop\NXTG3N LOADER\NXTG3N SPOOFER\LOADER\SerialWoof\obj\Debug\SerialWoof.csproj.GenerateResource.cache
+C:\Users\NXT-G3N\Desktop\NXTG3N LOADER\NXTG3N SPOOFER\LOADER\SerialWoof\obj\Debug\SerialWoof.csproj.CoreCompileInputs.cache
+C:\Users\NXT-G3N\Desktop\NXTG3N LOADER\NXTG3N SPOOFER\LOADER\SerialWoof\obj\Debug\SerialWoof.csproj.CopyComplete
+C:\Users\NXT-G3N\Desktop\NXTG3N LOADER\NXTG3N SPOOFER\LOADER\SerialWoof\obj\Debug\SerialWoof.exe
+C:\Users\NXT-G3N\Desktop\NXTG3N LOADER\NXTG3N SPOOFER\LOADER\SerialWoof\obj\Debug\SerialWoof.pdb
